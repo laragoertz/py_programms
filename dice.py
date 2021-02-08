@@ -27,5 +27,5 @@ elif roll ==6:
     print('|o     o|')
 else: 
     roll ==7
-    print('Another roll is not possible!')
+    print('Try again - is not possible!')
 print(' _______\n\n')
